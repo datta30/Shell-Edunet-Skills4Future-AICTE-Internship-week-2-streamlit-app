@@ -3,7 +3,7 @@
 An AI-powered web application that predicts environmental emission factors for supply chain activities using machine learning.
 
 ## 🚀 Live Demo
-[Try the app here!](your-streamlit-url-will-go-here)
+[Try the app here!](https://shell-edunet-skills4future-aicte-internship-week-2-app-app-wj7.streamlit.app/)
 
 ## 📊 Features
 - **AI Predictions**: Uses Random Forest algorithm trained on 2010-2016 US data
